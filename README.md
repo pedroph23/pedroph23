@@ -14,10 +14,10 @@ Olá pessoal!
 
 Me chamo Pedro, sou um desenvolvedor Full-Stack Developer, e em horas vagas sou um desenvolvedor indie (independente). Gosto criar projetos para resolver soluções minhas ou para outras pessoas. Sou mestre em falar que sou apaixonado por teconologia! Adoro poder agregar novos conhecimentos como novas tecnologias que estão mais conhecidas no mercado. Sou um profissional, que gosta de realizar tarefas com **planejamento** e que tem gosto por utilizar **boas praticas** e **boas condutas** para trabalhar em equipe. 
 
-<br> Se você esta aqui, veja um pouco mais sobre mim! 😉
-
+<br> Se você esta aqui, veja um pouco mais sobre mim! 😉   
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://github.com/pedroph23?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pedroph23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/pedro-ramalho-professional/">
          <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?style=for-the-badge&logoColor=white&logo=lkdin-logo"/></a>
       <a href="https://www.instagram.com/pedroph_23/">
