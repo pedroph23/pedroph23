@@ -18,14 +18,10 @@ Me chamo Pedro, sou um desenvolvedor Full-Stack Developer, e em horas vagas sou 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-      <a href="https://github.com/pedroph23">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/pedro-ramalho-professional/">
          <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue?style=for-the-badge&logoColor=white&logo=lkdin-logo"/></a>
       <a href="https://www.instagram.com/pedroph_23/">
          <img alt="followers" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/instagram-red?style=for-the-badge&logoColor=white&logo=instagram"/></a>
-      <a href="https://github.com/pedroph23?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
